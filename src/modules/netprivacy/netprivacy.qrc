@@ -1,0 +1,8 @@
+<!-- SPDX-FileCopyrightText: 2025 JPShag
+     SPDX-License-Identifier: GPL-3.0-or-later -->
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/netprivacy">
+        <file>View.qml</file>
+    </qresource>
+</RCC>
